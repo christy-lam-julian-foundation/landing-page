@@ -2,8 +2,8 @@ import "@/styles/index.scss"
 // import {} from "@/components/index"
 
 export const metadata = {
-  title: "Christy Lam Julian Foundation",
-  description: "Christy Lam Julian Foundation",
+  title: "Lam Julian Foundation",
+  description: "Lam Julian Foundation",
 }
 
 export default function RootLayout({ children }) {
