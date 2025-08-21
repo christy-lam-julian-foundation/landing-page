@@ -3,7 +3,7 @@ export default function Home() {
     <main>
       <section className="section is-medium">
         <p className="title has-text-white-ter has-text-centered">
-          Christy Lam Julian Foundation
+          Lam Julian Foundation
         </p>
 
         <div className="has-text-white-ter has-text-centered is-size-4">
